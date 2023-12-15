@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladimiraTodorova
 - 👀 I’m interested in JS ,QA , Jogging, Croshet bags , Cooking , Reading 
-- 🌱 I’m currently learning JS, HTML ,CSS
+- 🌱 I’m currently learning JS, HTML ,CSS ,Node ,React, PostgreSQL, Web3 and DApps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
